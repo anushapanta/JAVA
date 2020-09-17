@@ -1,0 +1,10 @@
+labassignment.test2
+labassignment.test
+labassignment.Nonabstract_Asparent
+labassignment.Student
+labassignment.test1
+labassignment.Place
+labassignment.College
+labassignment.Teacher
+labassignment.Country
+labassignment.City
